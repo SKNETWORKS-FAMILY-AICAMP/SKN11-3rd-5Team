@@ -5,7 +5,8 @@
 # 👨‍💻팀원 소개
 <div align="center">
 
-| [김상익](https://github.com/GTU9) | [김장수](https://github.com/js-kkk) | 김한솔 | 전유빈 |
+| [김상익](https://github.com/GTU9) | [김장수](https://github.com/js-kkk) | [김한솔](
+kim-hansol314) | [전유빈](https://github.com/yubnyx) |
 |--------|--------|--------|-------|
 | ![Image](https://github.com/user-attachments/assets/79f6731d-9c2c-40a3-b2a0-eeac0fee4398) | ![Image](https://github.com/user-attachments/assets/5bb86638-2fd7-44ee-a7e5-f23c6c5d3357) | ![Image](https://github.com/user-attachments/assets/78a17566-cdd5-4974-998c-03db1c9c49e0) | ![Image](https://github.com/user-attachments/assets/e81a28d4-1dcd-4625-9052-4cb66afe1475) |
 
