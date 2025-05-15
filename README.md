@@ -166,8 +166,8 @@
   
 ## 백터DB 구축
 **사용한 DB : FAISS**<br/>
-[FAISS DB 생성 코드](.py_file/use_vectordb/json_to_faiss.py)<br/>
-[FAISS DB 폴더](.data/db/faissdb)
+[FAISS DB 생성 코드](py_file/use_vectordb/json_to_faiss.py)<br/>
+[FAISS DB 폴더](data/db/faissdb)
 
 
 
