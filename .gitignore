@@ -1,4 +1,4 @@
-data/Audio/*
+data/ksi/Audio/*.mp3
 # data/Text/*
 # data/Json/*
 *.pyc
