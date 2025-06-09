@@ -267,10 +267,9 @@ Huggingface의 leader board 중 성능,속도를 비교 후 수집한 데이터�
 ![Image](https://github.com/user-attachments/assets/c38b64b0-7219-47fa-af37-00d81b8c9212)
 
 # 수행결과
+![Image](https://github.com/user-attachments/assets/2e49e048-e00a-4fbb-bb41-ac8919f56cc0)
 
-<img src="https://media.discordapp.net/attachments/1368557343834509486/1372187612944535642/image.png?ex=6825dccc&is=68248b4c&hm=33b92b4f178dd791beed1a9014ae9716920e9409a142f9d5aff6db53a0a430a7&=&format=webp&quality=lossless&width=2610&height=1552">
-
-<img src="https://media.discordapp.net/attachments/1368557343834509486/1372187649091043390/image.png?ex=6825dcd5&is=68248b55&hm=882b73ce9dc42c9e59149a6ef0584188e6a485231ce5e804f2342226c4ce2524&=&format=webp&quality=lossless&width=2610&height=1552">
+![Image](https://github.com/user-attachments/assets/86be9768-5b3e-46a1-8b8a-d97b2bef7301) # 결과2
 
 <br>
 
