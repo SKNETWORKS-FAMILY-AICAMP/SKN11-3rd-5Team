@@ -251,6 +251,7 @@ Huggingface의 leader board 중 성능,속도를 비교 후 수집한 데이터�
   <img src="https://github.com/user-attachments/assets/72e8d15a-7991-44df-8d3f-4381dfd6fa34" width="45%" />
   <img src="https://github.com/user-attachments/assets/62b4f76f-17ac-4b17-b7b7-1489b10c7072" width="45%" />
 </div>
+
 ![Image](https://github.com/user-attachments/assets/e25cd8c2-bcd4-4e58-bb15-0ce66009c9a2)
 
 - BAAI/bge-m3 모델 사용 시 실행 결과(LLM 모델 : gpt-4o-mini)
